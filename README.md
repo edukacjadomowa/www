@@ -1,2 +1,2 @@
 # www
-www.edukacjadomowa.com - edukacjadomowa.github.io/www
+www.edukacjadomowa.net - edukacjadomowa.github.io/www
