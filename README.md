@@ -18,8 +18,9 @@
 
 ### Software
 
-[Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
++ [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
 
++ [Learn to Code - for Free | Codecademy](https://www.codecademy.com/)
 
 
 ### Hardware
