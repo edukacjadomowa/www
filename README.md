@@ -107,17 +107,11 @@
 > 
 > Portal przydatny zwłaszcza gdy nie można pójść do biblioteki po szkolną lekturę. Książki w formie ebooków dostępne są bezpłatnie, bez konieczności rejestracji. Jest ich sporo, ale serwis stawia na klasykę. Książek _Hobbit_ czy _Felix, Net i Nika_ nie znaleźliśmy, a przecież są lekturami szkolnymi.
 > 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527274943603-8'); });
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1527274943603-1'); });
 > 
 > -   [wolnelektury.pl](https://wolnelektury.pl/)
 > 
 > Kolejna strona z książkami w formie ebooków i audiobooków. Ale wśród ponad pięciu tysięcy tytułów znajdują się nie tylko lektury szkolne, więc jeśli w domu wszystko już przeczytane, także rodzice mogą z powodzeniem zaglądać do serwisu.
 > 
-> ![](https://miastodzieci.pl/wp-content/uploads/2021/11/adobestock-279398153-scaled-1-edited-1.jpeg)
-> 
-> ![](https://miastodzieci.pl/wp-content/uploads/2021/11/adobestock-279398153-scaled-1-edited-1.jpeg)
 > 
 > ## **Kurs online - Jak zachęcić dziecko do nauki**
 > 
