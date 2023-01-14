@@ -7,11 +7,13 @@
 ### Edukacja dla dzieci
 
 
+### Blog
+
+[Edukacja domowa - najczęściej zadawane pytania - Edukacja Domowa w Polsce](https://edukacja-domowa.org/najczesciej-zadawane-pytania/)
 
 
 
-
-### Społecznośći 
+### Społeczności 
 
 
 ### Software
@@ -23,6 +25,45 @@
 
 ### Hardware
 
+
+[Edukacja domowa forum ogólnopolskie - Wykaz forów](http://forum.edukacja-domowa.org/)
+
+> -   [Sprawy organizacyjne](http://forum.edukacja-domowa.org/viewforum.php?f=1&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+> -   [Ogłoszenia i informacje](http://forum.edukacja-domowa.org/viewforum.php?f=2&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+>     
+> -   [Powitania](http://forum.edukacja-domowa.org/viewforum.php?f=3&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+> 
+> -   [Prawo i przepisy](http://forum.edukacja-domowa.org/viewforum.php?f=5&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+> -   [Codzienność w ED](http://forum.edukacja-domowa.org/viewforum.php?f=31&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+     
+> -   [Przygotowanie do ED](http://forum.edukacja-domowa.org/viewforum.php?f=33&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+
+>     
+> -   [Bank specjalistów](http://forum.edukacja-domowa.org/viewforum.php?f=34&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+>     
+>     
+> -   [Polecanki](http://forum.edukacja-domowa.org/viewforum.php?f=32&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+>     
+> -   [Linkownia](http://forum.edukacja-domowa.org/viewforum.php?f=30&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+> 
+> -   [Etapy edukacji](http://forum.edukacja-domowa.org/viewforum.php?f=35&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+> 
+> -   [Nauczanie początkowe](http://forum.edukacja-domowa.org/viewforum.php?f=36&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
+>     
+>     Tematy: 6, Posty: 20
+>     
+     
++ [Szkoła podstawowa IV-VIII](http://forum.edukacja-domowa.org/viewforum.php?f=37&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
++ [Gimnazjum](http://forum.edukacja-domowa.org/viewforum.php?f=38&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
++ [Szkoła średnia](http://forum.edukacja-domowa.org/viewforum.php?f=39&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
 
 
 
