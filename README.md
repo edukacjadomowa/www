@@ -26,6 +26,9 @@
 ### Hardware
 
 
+
+## grupa discord: edukacjadomowa.net
+
 [Edukacja domowa forum ogólnopolskie - Wykaz forów](http://forum.edukacja-domowa.org/)
 
 > -   [Sprawy organizacyjne](http://forum.edukacja-domowa.org/viewforum.php?f=1&sid=84bbba1f7da15c6ac6be63b7ffe2a06d)
