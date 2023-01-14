@@ -50,7 +50,7 @@
 > od września 2023 – rok szkolny zaczynają cztery pierwsze klasy szkoły podstawowej.
 
 
-
+# Edukacja samodzielna, zdalna
 
 
 ## [Platformy i portale edukacyjne dla dzieci przydatne do nauki w domu. Edukacja domowa – MiastoDzieci.pl](https://miastodzieci.pl/czytelnia/platformy-i-portale-edukacyjne-dla-dzieci-przydatne-do-nauki-w-domu/)
@@ -178,3 +178,33 @@
 > -   [gwo.pl/ucze-zdalnie](https://gwo.pl/ucze-zdalnie-p4678)
 > 
 > Gdańskie Wydawnictwo Oświatowe udostępnia i nauczycielom i uczniom materiały online do nauki zdalnej w domu z matematyki, języka polskiego, historii, fizyki i edukacji wczesnoszkolnej. Nie jest tego jakoś bardzo dużo, ale można znaleźć coś ciekawego, choćby propozycje prostych eksperymentów do przeprowadzenia w domu.
+
+
+
+## [Platformy edukacyjne, portale i kanały YouTube pomocne w edukacji domowej - Świat Zabawek](https://swiatzabawek.net/platformy-edukacyjne-portale-i-kanaly-youtube-pomocne-w-edukacji-domowej/)
+
+> [Centrum Nauczania Domowego](https://domowi.edu.pl/) jest placówką oświatowo-wychowawczą. Z sukcesem od 2009 roku wspiera rodziny w edukacji domowej. Wykształciło już ponad 16 tysięcy małych Polaków na całym świecie – ma swoich uczniów w całej Europie, Stanach Zjednoczonych, Korei Północnej, a nawet na Madagaskarze. Jest liderem nauczania domowego w Polsce. Działają już 10 lat, mają wykwalifikowaną kadrę. Dysponują wykwalifikowanym i pełnym pasji zespołem: nauczycieli, pedagogów, psychologów i logopedów, którzy służą uczniom pomocą na każdym etapie nauki.
+> 
+> [Zdobywcy Wiedzy](https://zdobywcywiedzy.pl/inspiracje/edukacja-domowa/) – przeznaczona dla dzieci w wieku 5-10 lat. Ogromny zbiór ponad 10 000 ćwiczeń, zadań i interakcji  przygotowanych przez polskich pedagogów. Całość  zgodna z podstawą programową Ministerstwa Edukacji Narodowej. Specjalne narzędzia dla rodziców i nauczycieli (kontrola postępów, zadawanie prac domowych). Nauka przez Zabawę – dzieci same proszą o włączenie nowych zadań. Pełne bezpieczeństwo dzieci – Portal nie zawiera reklam. Elementy aktywizujące dzieci do nauki – Grywalizacja. Fundatorami platformy jest małżeństwo rodziców i pedagogów Agnieszka i Marek Gudkowie, których marzeniem było stworzenie miejsca w Internecie, gdzie każde dziecko będzie bezpieczne oraz otrzyma sprawdzone i dobre materiały edukacyjne. Plansze na których pracuje dziecko są niezwykle atrakcyjne graficzne, zachęcają do nauki przez zabawę.
+> 
+> [Meridian Prime](https://meridianprime.online/) – to wygodne i doskonałe narzędzie dla nauczycieli i uczniów szkół każdego typu i poziomu nauczania. Jeśli masz dziecko, które uczy się geografii, historii, biologii, WOS-u, języków obcych, to jesteś we właściwym miejscu. Jeśli twój uczeń lubi mapy, chce je rozkładać na elementy i złożyć po swojemu lub po prostu potrzebuje wiedzy – znajdziesz tu wszystko: ćwiczenia, zadania domowe i testy sprawdzające, czytelny i atrakcyjny sposób prezentacji, wskazówki i metodyczne scenariusze lekcji, dostęp on-line z każdego urządzenia. Platforma przeznaczona jest zarówno do edukacji domowej, jak i dla nauczycieli szkolnych.
+> 
+> [Grupa Robocza do spraw kontaktów z Ministerstwem Edukacji Narodowej](http://edukacjadomowa.pl/grupa/) –gromadzi najwyższej rangi specjalistów związanych z edukacją. Zajmują się edukacją domową od strony prawnej – znajdziemy tam zapisy z konstytucji oraz informacje o najnowszych zmianach w Prawie Oświatowym. Organizują również spotkania, w których mogą uczestniczyć rodzice. Grupa Robocza działa na terenie Warszawy.
+> 
+> [Stowarzyszenie Edukacji w Rodzinie](http://edukacjadomowa.pl/grupa/) – za swój główny cel stawia wspieranie rodzin w realizacji konstytucyjnego prawa do wychowania dzieci zgodnie z ich własnymi przekonaniami, upowszechnianie pozaszkolnych form realizacji obowiązku szkolnego, działalność szkoleniową i edukacyjną. Na stronie internetowej stowarzyszenia można znaleźć informacje dotyczące wydarzeń związanych z nauczaniem domowym, prawne aspekty edukacji domowej, odpowiedzi na najczęściej zadawane pytania, artykuły dotyczące wychowania dzieci oraz pomoce dydaktyczne.
+> 
+> [Epodreczniki](https://zpe.gov.pl/) – serwis rządowy dla dzieci i młodzieży zawierający materiały edukacyjne z większości przedmiotów. Do każdego tematu udostępniony jest film pozwalający usystematyzować wiedzę oraz ćwiczenia dotyczące poruszanych w filmie zagadnień i słowniczek z wyjaśniający najważniejsze hasła. Zalecana jest rejestracja, ale można korzystać także bez logowania.
+> 
+> [Matzoo](https://www.matzoo.pl/) – dzieci rozwiązują zadania matematyczne bez rejestracji, wystarczy wybrać klasę i zagadnienia, których mają te zadania dotyczyć. Prosto, intuicyjnie, z możliwością sprawdzenia poprawności odpowiedzi.
+> 
+> [Math.edu.pl](http://www.math.edu.pl/) – trochę zadań i zasad ze świata liczb, trochę łamigłówek i matematycznych ciekawostek. Zadania są podzielone na zagadnienia, a nie na klasy i rozwiązujemy je nie w systemie, a w sposób tradycyjny. Serwis raczej dla starszych dzieci. Z serwisu można korzystać bez rejestracji, ale rozwiązania są dostępne po założeniu konta.
+> 
+> [Pistacja.tv](https://pistacja.tv/) – serwis dla starszych uczniów, zawiera darmowe wideo lekcje z matematyki, fizyki, chemii i biologii zgodne z podstawą programową. Zawiera webinary-powtórki przed egzaminem z matematyki, interaktywne zadania na różnych poziomach trudności.
+> 
+> [Władcy Słów](https://wladcyslow.gwo.pl/) – tym razem to serwis poświęcony językowi polskiemu, przeznaczony dla klas IV – VI szkoły podstawowej, tutaj żmudna praca zmienia się w pełną emocji zabawę z elementami rywalizacji. Uczniowie wybierają bohaterów, którzy będą im towarzyszyli podczas rozwiązywania zadań, postacie może rozwijać jak w grze komputerowej i wyposażać je w różne artefakty – aby je zdobyć trzeba wykazać się znajomością języka polskiego.
+> 
+> [Seterra](https://online.seterra.com/pl) to geograficzna gra edukacyjna, zawierająca ponad 200 różnych ćwiczeń. Ucz się o krajach, stolicach, oceanach, flagach i miastach w Afryce, Europie, Ameryce Południowej, Północnej, Azji i Australii używając ćwiczeń z mapami konturowymi. Seterra istnieje od 1997 roku, została przetłumaczona na 40 języków I jest uwielbiana przez ludzi z dookoła świata.
+> 
+> [Pan Belfer](https://www.youtube.com/channel/UCfYPjDbhT01HYwvCIC29tVg) – kanał na Youtube prowadzony przez nauczyciela Dawida Łasińskiego, uczącego chemii – doskonały dla tych, którzy mają trudności z tym przedmiotem.
+> 
+> [Nauka to lubię](https://www.youtube.com/user/naukatolubie) – również kanał youtubowy, na którymi występuje znany naukowiec Tomasz Rożek, prezentujący różne zagadnienia z dziedziny fizyki, chemii czy biologii.
