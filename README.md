@@ -28,6 +28,8 @@
 
 # Inicjatywy
 
++ [Projekty - Cyfrowy Dialog](https://cyfrowydialog.pl/projects)
+
 ## [Bieżące informacje od Centrum Nauczania Domowego | Aktualności](https://domowi.edu.pl/aktualnosci/)
  
 
