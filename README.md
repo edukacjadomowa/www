@@ -285,3 +285,19 @@
 > ## Gdzie nas znajdziesz?
 > 
 > Świetlica Edu Art  zlokalizowana jest w sercu Warszawy przy Al.3 Maja. W miejscu pełnym artystycznych wibracji. To tam, każdego dnia, dzieci będą miały okazję do spotkań z rówieśnikami, wspólnej zabawy i nauki.
+
+
+
+
+
+## [Cyfrowy Dialog](https://cyfrowydialog.pl/o-nas/)
+
+> ### Zmieniamy edukację. Chcemy, by jej cele były odpowiedzią na potrzeby uczniów, nauczycieli i rodziców.
+> 
+> Dlatego naszą misją jest wprowadzanie zmian w humanistycznym nurcie, zgodnie z którym każde działanie poprzedzone jest pytaniem dla kogo?, a opiera się na pozytywnych relacjach i konstruktywnym dialogu.  
+>   
+> Żyjemy w świecie dynamicznych zmian, dlatego wiemy, jak ważne jest wyjście naprzeciw wyzwaniom współczesności i przyszłości - widzimy w nich potencjał do stworzenia przestrzeni wymiany informacji, rozmowy, rozwijania kreatywności i umiejętności miękkich. Budujemy i wzmacniamy kompetencje cyfrowe oraz medialne, upowszechniamy świadome korzystanie z osiągnięć technologicznych i nowoczesnych metod nauczania.  
+>   
+> Cenimy otwartość zasobów, dostęp do wiedzy i inspiracji. Budujemy sieci wymiany doświadczeń i twórcze relacje oparte na empatii, zaufaniu i otwartości.  
+>   
+> Odwiedź także stronę Niepublicznego Ośrodka Doskonalenia Nauczycieli Cyfrowy Dialog utworzonego przy naszym Stowarzyszeniu.
