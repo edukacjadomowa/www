@@ -251,3 +251,35 @@
 > [Pan Belfer](https://www.youtube.com/channel/UCfYPjDbhT01HYwvCIC29tVg) – kanał na Youtube prowadzony przez nauczyciela Dawida Łasińskiego, uczącego chemii – doskonały dla tych, którzy mają trudności z tym przedmiotem.
 > 
 > [Nauka to lubię](https://www.youtube.com/user/naukatolubie) – również kanał youtubowy, na którymi występuje znany naukowiec Tomasz Rożek, prezentujący różne zagadnienia z dziedziny fizyki, chemii czy biologii.
+
+
+
+
+
+## [EduArt - Fundacja Edukacji Domowej](http://domowa.edu.pl/eduart/)
+
+> ## Zapraszamy Was na zimową półkolonię dla dzieci w Warszawie! 20-24 lutego. Cena 459 zł.
+> 
+> „Kultury i obyczaje na świecie” to półkolonie, które dają Wam możliwość niesamowitej podróży! Jesteście chętni na wycieczkę do fascynującej Japonii? A może do tajemniczego Meksyku?
+> 
+> Podczas zajęć wspólnie przemierzymy kilka kontynentów – od Afryki, przez Amerykę Północną, aż po Azję! Dowiemy się w jaki sposób ludzie na całym świecie kultywują swoje tradycje. Czy wiedzieliście, że Japończycy biorą udział w święcie lalek, a w Meksyku obchodzi się noc rzodkiewek? Porozmawiamy zarówno o dawnych, jak i tych współczesnych wierzeniach oraz obyczajach mieszkańców świata. Napisz do nas, aby uzyskać więcej informacji.
+> 
+> [Dołącz do nas](http://domowa.edu.pl/eduart/#przygoda)
+> 
+> ![](http://domowa.edu.pl/wp-content/themes/mimpi/assets/images/Group1.png)
+> 
+> ![](http://domowa.edu.pl/wp-content/themes/mimpi/assets/images/star.png)
+> 
+> ![](http://domowa.edu.pl/wp-content/themes/mimpi/assets/images/Group23.png)
+> 
+> ## Co robimy?
+> 
+> Świetlica Edu Art to połączenie wieloletniego doświadczenia pracy z dziećmi realizującymi obowiązek szkolny poza szkołą z ideą kształtowania w dzieciach artystycznej wrażliwości na świat. Realizujemy autorski program ART EDUKACJI stworzony przez Romę Gąsiorowską we współpracy z pedagogami i psychologami, który używa narzędzi jakimi pracują artyści, aby wzmocnić rozumienie własnych potrzeb, emocji, umieć sobie z nimi radzić.
+> 
+> Zapraszamy od poniedziałku do piątku 8:00 – 14:00.
+> 
+> W styczniu i lutym zapraszamy Was na warsztaty! Nie zabraknie zajęć muzycznych, plastycznych i ruchowych! Każde zajęcia to zupełnie inna przygoda, inne doświadczenia i atmosfera. Harmonogram zajęć znajdziecie na naszym Facebooku.
+> 
+> ## Gdzie nas znajdziesz?
+> 
+> Świetlica Edu Art  zlokalizowana jest w sercu Warszawy przy Al.3 Maja. W miejscu pełnym artystycznych wibracji. To tam, każdego dnia, dzieci będą miały okazję do spotkań z rówieśnikami, wspólnej zabawy i nauki.
