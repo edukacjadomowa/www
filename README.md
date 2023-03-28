@@ -3,6 +3,9 @@
 
 ## prawo
 
+
++ [Edukacja polskich dzieci za granicą - Ministerstwo Edukacji i Nauki - Portal Gov.pl](https://www.gov.pl/web/edukacja-i-nauka/edukacja-polskich-dzieci-za-granica)
+
 + [Uzyskaj zgodę na edukację domową - Gov.pl - Portal Gov.pl](https://www.gov.pl/web/gov/uzyskaj-zgode-na-edukacje-domowa)
 
 ## Edukacja na poziomie podstawowym
