@@ -4,6 +4,12 @@
 ## prawo
 
 
+
+    Polskie dzieci za granicą spełniają obowiązek szkolny w lokalnych szkołach. Realizacja obowiązku szkolnego, obowiązku nauki w polskim systemie oświaty dotyczy dzieci mieszkających na terenie Polski, a nie mieszkających czasowo, czy na stałe na terenie innych państw. Zasadą ogólną, respektowaną przez systemy edukacyjne państw, jest wymóg realizacji obowiązku szkolnego i obowiązku nauki zgodnie z prawodawstwem państwa, na terenie którego dziecko zamieszkuje. Zasada ta dotyczy wszystkich mieszkających na terenie danego państwa dzieci w odpowiedniej grupie wiekowej (także cudzoziemców).
+    
+    W praktyce oznacza to obowiązek chodzenia do szkoły należącej do systemu oświaty danego państwa, czyli np. szkoły francuskiej we Francji, bądź akredytowanej w danym państwie szkoły realizującej pełny program nauczania innego państwa. Możliwości wyboru miejsca i formy realizacji obowiązku szkolnego wskazuje państwo, w którym zamieszkują Polacy. By po powrocie z zagranicy do Polski uczeń mógł kontynuować naukę w polskiej szkole, wystarczy świadectwo szkolne szkoły zagranicznej potwierdzające ukończenie danej klasy. By wejść do polskiego systemu edukacji, nie jest konieczne wcześniejsze, równoległe realizowanie obowiązku szkolnego również w polskiej szkole za granicą.
+
+
 + [Edukacja polskich dzieci za granicą - Ministerstwo Edukacji i Nauki - Portal Gov.pl](https://www.gov.pl/web/edukacja-i-nauka/edukacja-polskich-dzieci-za-granica)
 
 + [Uzyskaj zgodę na edukację domową - Gov.pl - Portal Gov.pl](https://www.gov.pl/web/gov/uzyskaj-zgode-na-edukacje-domowa)
