@@ -20,7 +20,39 @@
 
 
 
+
+
 ### Edukacja dla dzieci
+
+
+### Tematy
+
++ Człowiek jako twórca i tworzywo
+    + anatomia
+    + psycho i socjo logia
+    + mózg, hormony, cykl życia
++ TWÓRCZOŚĆ
+    + teatr
+    + pisanie
+    + mówienie
+    + rysowanie
++ propaganda
+    + skuteczne skupianie uwagi większości na tematach istotnych dla mniejszości
+    + oddolna kontrola i blokdada funkcjonoania systemów
++ zarządzanie
+    + organizacje wewnątrz, działające i publikujące w ramach fundacji
+    + aktywiści wolnej edukacji
++ ekonomia na przykładzie handlu, usług, produkcji
+    + wizyta u lokalnych przedsiębiorców
++ metody wpływu
+    + pośrednie, bezpośrednie, z udziałem aktorów
++ metody rozrpaszania i skupiania uwagi
++ Cybernetyka w teorii i praktyce, modele i zastosowania
+  
+
+#### Strumień wiedzy
++ warsztaty na internetowych przypadkach w mediach społecznościowych w dyskusjach i komentarzach
++ edukacja w oparciu o aktualne przykłady 
 
 
 ### Blog
