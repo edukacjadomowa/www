@@ -27,6 +27,9 @@
 
 ### Tematy
 
++ Narzędzia w edukacji
+    + metody zwiększenia jakości i efektywoności
+    + przykładowe rozwiązania i techniki
 + Człowiek jako twórca i tworzywo
     + anatomia
     + psycho i socjo logia
